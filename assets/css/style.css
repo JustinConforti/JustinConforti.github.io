@@ -94,6 +94,7 @@ header {
     width: 360px;
     height: 91px;
     font-size:27px;
+    margin-left:15px;
 
 
 }
@@ -102,7 +103,8 @@ header {
 
     padding-top: 25px;
     margin: 0 auto;
-    float: right;
+    margin-right:95px;
+    float:right;    
     word-spacing: 55px; 
     font-size:20px;   
 
