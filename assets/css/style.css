@@ -382,8 +382,26 @@ a {
     border-color: #dddddd;
 }
 
+
+h2.contact-heading {
+
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.under-line {
+
+    margin: 0 auto;
+    border-bottom: 1px solid #4aaaa5;
+    width: 910px;
+
+}
 .contact-form {
 
+    margin-top:-25px;
     width: 900px;
     height:480px;
 
@@ -504,13 +522,6 @@ label {
 
 }
 
-.under-line {
-
-    margin: 0 auto;
-    border-bottom: 2px solid #c7c5c5;
-    width: 815px;
-
-}
 
 .puppy-picture {
 
