@@ -135,7 +135,7 @@ a {
     margin: 0 auto;
     padding-top: 5px;
     height:557px;
-    background-image: url("C:/Users/Justin/Desktop/BootCamp/Self-portfolio/assets/images/dark_wood.png");
+    background-image: url("C:/Users/Justin/Desktop/JustinConforti.github.io/assets/images/dark_wood.png");
 
 }
 
@@ -320,7 +320,7 @@ img {
 
 nav {  
 
-    height: 55px;
+    height: 65px;
     width: 960px;
     margin: 0 auto;
     padding-top: 5px;
@@ -335,21 +335,25 @@ nav {
     border-bottom-style: 1px ridge;
     display:inline-block;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    color: white;
-    width: 190px;
-    height: 55px;
-    background-color: #4aaaa5;
+    color: #af4f3a;
+    width: 250px;
+    height: 65px;
+    font-size: 23px;
+    margin-top: -12px;
 
 }
+
 
 .nav-links {
 
-    padding-top: 30px;
+    padding-top: 25px;
     margin: 0 auto;
     float: right;
-    word-spacing: 35px;    
-
+    word-spacing: 55px;  
+    font-size: 15px;
+    
 }
+
 
 a {
     
@@ -359,10 +363,11 @@ a {
 
 .main-background {
 
-    margin: 0 auto;
     padding-top: 5px;
-    height:100%;
-    background-image: url("C:/Users/Justin/Desktop/BootCamp/Self-portfolio/assets/images/prism/prism.png");
+    margin: 0 auto;
+    height:657px;
+    background-image: url("C:/Users/Justin/Desktop/JustinConforti.github.io/assets/images/dark_wood.png");
+
 }
 
 
@@ -372,7 +377,7 @@ a {
     margin-left: 312px;
     border-top: 40px;
     background-color: white;
-    height:540px;
+    height:480px;
     width: 960px;
     border-color: #dddddd;
 }
@@ -447,6 +452,7 @@ label {
     border: 1px solid #dddddd;
     margin-top:5px;
     padding-left:5px;
+    padding-bottom:15px;
 
 }
 
@@ -462,12 +468,14 @@ label {
 .footerborder {
 
     background-color: #4aaaa5;
-    height: 10px;
+    
 }
+
 .footer {
 
+    height:15px;
     background-color: #666666;
-    height:75px;
+
 }
 
 .copyright {
@@ -476,21 +484,12 @@ label {
     font-size: 10px;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    padding-left: 50%;
-    padding-top: 55px;
+
 }
 
 /* --------------Portfolio Page Starts Here-------------- */
 
 
-.main-background {
-
-    margin: 0 auto;
-    padding-top: 5px;
-    height:100%;
-    background-image: url("C:/Users/Justin/Desktop/BootCamp/Self-portfolio/assets/images/prism/prism.png");
-
-}
 
 .portfolio-background {
 
@@ -524,7 +523,6 @@ label {
     
     background-color: #4aaaa5;
     height: 5px;
-    margin-top:25px;
 
 }
 
