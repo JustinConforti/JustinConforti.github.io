@@ -335,7 +335,7 @@ nav {
     border-bottom-style: 1px ridge;
     display:inline-block;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #4aaaa5;
+    color: #af4f3a;
     width: 250px;
     height: 65px;
     font-size: 23px;
@@ -377,7 +377,7 @@ a {
     margin-left: 312px;
     border-top: 40px;
     background-color: white;
-    height:480px;
+    height:500px;
     width: 960px;
     border-color: #dddddd;
 }
@@ -404,6 +404,7 @@ h2.contact-heading {
     margin-top:-25px;
     width: 900px;
     height:480px;
+    display:inline-block;
 
 
 }
@@ -462,7 +463,7 @@ label {
 
 }
 
-#message {
+.text-area {
 
     margin-top:100px;
     margin-left:20px;
@@ -476,13 +477,12 @@ label {
 
 }
 
-.button {
+.submit-button {
 
     width:80px;
     height:30px;
-    background-color: #4aaaa5;
-    margin-top: 25px;
-    margin-left:20px;
+    background-color: #4aaaa5;  
+    position:relative;
 }
 
 .footerborder {
